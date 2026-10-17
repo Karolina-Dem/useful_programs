@@ -1,44 +1,41 @@
-# Markdown — Przykładowe README
+# Start
 
-## Krótka sekcja
-To jest krótki tekst w pierwszej podsekcji. Zawiera **pogrubiony** tekst oraz *pochylony* fragment.
+## Sekcja 1
+To jest krótki tekst w pierwszej podsekcji. Zawiera **pogrubiony** fragment oraz *pochylony* element.
 
-## Druga sekcja
-Druga podsekcja z krótkim opisem i jednym ~~przekreślonym~~ fragmentem.
+## Sekcja 2
+To jest kolejny krótki opis w drugiej podsekcji. Warto tu dodać również ~~przekreślony~~ fragment, aby pokazać różne formatowanie.
 
-- Punkt listy A
-- Punkt listy B
-- Punkt listy C
+- GitHub
+  - repozytorium
+  - Issues
+  - historia zmian
 
-1. Najpierw przygotuj dane
-2. Następnie wykonaj obliczenia
-3. Na końcu zapisz wynik
+1. przygotuj dane,
+2. wykonaj obliczenia,
+3. zapisz wynik,
+4. opisz wynik.
 
 - [x] utworzono notebook
 - [x] wykonano obliczenia
 - [ ] sprawdzono wynik
 
-Tabela przykładowa:
+[GitHub](http://colab.research.google.com)
 
 | Narzędzie | Typ pliku | Zastosowanie |
 | --- | --- | --- |
 | Markdown | .md | dokumentacja |
 | Colab | .ipynb | obliczenia |
 
-Link do Google Colab: [Google Colab](http://colab.research.google.com)
-
-Krótki fragment kodu w Pythonie:
-
 ```python
-def hello(name):
-    return f"Hello, {name}!"
+def kwadrat(x):
+    return x * x
 
-print(hello("Świecie"))
+for i in range(3):
+    print(f"{i}^2 = {kwadrat(i)}")
 ```
 
 Trzy wzory matematyczne w tekście: $a^2 + b^2 = c^2$, $E = mc^2$, $A = \pi r^2$.
-
-Trzy wzory jako osobne bloki wycentrowane:
 
 $$
 a^2 + b^2 = c^2
@@ -51,7 +48,5 @@ $$
 $$
 A = \pi r^2
 $$
-
-Osadzony obrazek:
 
 ![Wykres zależności y od x](files/wykres.png)
