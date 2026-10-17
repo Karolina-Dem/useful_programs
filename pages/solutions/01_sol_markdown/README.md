@@ -32,7 +32,7 @@ e^x = \sum_{m=0}^{\infty} \frac{x^m}{m!}
 $$
 
 ##
-Następne`trzy wzory matematyczne w tekście: $a^2 + b^2 = c^2$, $E = mc^2$, $A = \pi r^2$.
+Następne trzy wzory matematyczne w tekście: $a^2 + b^2 = c^2$, $E = mc^2$, $A = \pi r^2$.
 
 ###
 
