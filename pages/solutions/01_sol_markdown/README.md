@@ -1,41 +1,57 @@
-# Start
-###**Miasto**###
-###*Wrocław*###
-###~~Oława~~###
-- GitHub
-  - repozytorium
-  - Issues
-  - historia zmian
- 
-  
-  1. przygotuj dane,
-2. wykonaj obliczenia,
-3. zapisz wynik,
-4. opisz wynik.
+# Markdown — Przykładowe README
+
+## Krótka sekcja
+To jest krótki tekst w pierwszej podsekcji. Zawiera **pogrubiony** tekst oraz *pochylony* fragment.
+
+## Druga sekcja
+Druga podsekcja z krótkim opisem i jednym ~~przekreślonym~~ fragmentem.
+
+- Punkt listy A
+- Punkt listy B
+- Punkt listy C
+
+1. Najpierw przygotuj dane
+2. Następnie wykonaj obliczenia
+3. Na końcu zapisz wynik
 
 - [x] utworzono notebook
 - [x] wykonano obliczenia
 - [ ] sprawdzono wynik
 
-[GitHub]http://colab.research.google.com
-
-![Wykres zależności y od x](files/wykres.png)
+Tabela przykładowa:
 
 | Narzędzie | Typ pliku | Zastosowanie |
 | --- | --- | --- |
 | Markdown | .md | dokumentacja |
 | Colab | .ipynb | obliczenia |
 
-$a^2+b^2=c^2$
+Link do Google Colab: [Google Colab](http://colab.research.google.com)
 
-1. Pole koła:
-   `P = πr²`
+Krótki fragment kodu w Pythonie:
 
-2. Twierdzenie Pitagorasa:
-   `a² + b² = c²`
+```python
+def hello(name):
+    return f"Hello, {name}!"
 
-3. Wzór kwadratowy:
-   `x = (-b ± √(b² - 4ac)) / 2a`
+print(hello("Świecie"))
+```
 
-   
+Trzy wzory matematyczne w tekście: $a^2 + b^2 = c^2$, $E = mc^2$, $A = \pi r^2$.
 
+Trzy wzory jako osobne bloki wycentrowane:
+
+$$
+a^2 + b^2 = c^2
+$$
+
+$$
+x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+$$
+
+$$
+A = \pi r^2
+$$
+
+Osadzony obrazek:
+
+![Wykres zależności y od x](files/wykres.png)
