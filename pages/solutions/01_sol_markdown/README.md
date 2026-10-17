@@ -1,17 +1,15 @@
 # Start
 
-## Sekcja 1
-To jest krótki tekst w pierwszej podsekcji. Zawiera **pogrubiony** fragment oraz *pochylony* element.
-
-## Sekcja 2
-To jest kolejny krótki opis w drugiej podsekcji. Warto tu dodać również ~~przekreślony~~ fragment, aby pokazać różne formatowanie.
-
+###**Miasto**###
+###*Wrocław*###
+###~~Oława~~###
 - GitHub
   - repozytorium
   - Issues
   - historia zmian
-
-1. przygotuj dane,
+ 
+ 
+  1. przygotuj dane,
 2. wykonaj obliczenia,
 3. zapisz wynik,
 4. opisz wynik.
@@ -20,33 +18,22 @@ To jest kolejny krótki opis w drugiej podsekcji. Warto tu dodać również ~~pr
 - [x] wykonano obliczenia
 - [ ] sprawdzono wynik
 
-[GitHub](http://colab.research.google.com)
+[GitHub]http://colab.research.google.com
+
+![Wykres zależności y od x](files/wykres.png)
 
 | Narzędzie | Typ pliku | Zastosowanie |
 | --- | --- | --- |
 | Markdown | .md | dokumentacja |
 | Colab | .ipynb | obliczenia |
 
-```python
-def kwadrat(x):
-    return x * x
+$a^2+b^2=c^2$
 
-for i in range(3):
-    print(f"{i}^2 = {kwadrat(i)}")
-```
+1. Pole koła:
+   `P = πr²`
 
-Trzy wzory matematyczne w tekście: $a^2 + b^2 = c^2$, $E = mc^2$, $A = \pi r^2$.
+2. Twierdzenie Pitagorasa:
+   `a² + b² = c²`
 
-$$
-a^2 + b^2 = c^2
-$$
-
-$$
-x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
-$$
-
-$$
-A = \pi r^2
-$$
-
-![Wykres zależności y od x](files/wykres.png)
+3. Wzór kwadratowy:
+   `x = (-b ± √(b² - 4ac)) / 2a`
