@@ -1,28 +1,13 @@
----
-## Co to są kropki kwantowe i jakie mają właściwości?
+# Transkrypcja
 
-- 3D struktura
-- ruch elektronów jest ograniczony w trzech wymiarach
-- najpowszechniejszy model — „quantum box” (kropka kwantowa w kształcie sześcianu); potencjał na zewnątrz jest nieskończony
-- równanie Schrödingera:
+Obrazek `zrzut.png` zatopiony w dokumencie.
 
-$$
-\frac{\hbar^{2}}{2m} \left( \frac{\partial^{2}}{\partial x^{2}} + \frac{\partial^{2}}{\partial y^{2}} + \frac{\partial^{2}}{\partial z^{2}} \right) \Psi(x,y,z) = E\,\Psi(x,y,z)$$
+## Prompt użyty do wygenerowania tekstu przez AI
 
-- energia:
+```
+Tutaj wklej treść promptu użytego do wygenerowania tekstu przez AI.
+```
 
-$$
-E = \frac{\hbar^{2} \pi^{2}}{2 m} \left( \frac{n_x^{2}}{L_x^{2}} + \frac{n_y^{2}}{L_y^{2}} + \frac{n_z^{2}}{L_z^{2}} \right)
-$$
+## Finalna wersja notatki
 
-- poziomy energetyczne są zdegenerowane
-- sferyczna kropka kwantowa → rozdzielenie funkcji falowej $\Psi$ na część radialną i kątową (podobieństwo do zagadnienia atomu wodoru w mechanice kwantowej) → rozwiązania: funkcje Bessela[...]
-
-
-# Właściwości heterostruktur, drutów i kropek kwantowych
-
-- Heterostruktury (2D, warstwy): ograniczenie w jednym wymiarze; gęstość stanów przypomina 2D; często stosowane do tworzenia studni potencjału i tunelowania między warstwami.
-
-- Druty kwantowe (1D): ograniczenie w dwóch wymiarach; przewodzenie wzdłuż jednej osi; gęstość stanów charakterystyczna dla 1D (pikowate cechy), zwiększona rola lokalizacji i rozpraszania.
-
-- Kropki kwantowe (0D): ograniczenie we wszystkich trzech wymiarach; dyskretne poziomy energetyczne (podobne do atomu), duża degeneracja zależna od symetrii; używane jako "sztuczne atomy" w optoele[...]
+Końcowa wersja transkrypcji, gdzie wszystkie błędy zostały poprawione! Prawdopodobnie kod otrzymany przez AI będzie zawierał pewne błędy lub nieścisłości z racji automatycznego przetwarzania obrazu i nie będzie idealny. Twoim zadaniem jest zapewnienie poprawnego renderowania i zgodności (do pewnego stopnia) z rzeczywistym tekstem widocznym na zrzucie.
