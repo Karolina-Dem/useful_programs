@@ -1,6 +1,6 @@
 # Transkrypcja
 
-Obrazek `zrzut.png` zatopiony w dokumencie:
+Obrazek `zrzut.png`:
 
 ![zrzut notatek](zrzut.png)
 
@@ -19,10 +19,10 @@ Tutaj wklej treść promptu użytego do wygenerowania tekstu przez AI.
 - Równanie Schrödingera (dla cząstki w trójwymiarowej studni potencjału):
 
 $$
-- \frac{\hbar^{2}}{2m} \left( \frac{\partial^{2}}{\partial x^{2}} + \frac{\partial^{2}}{\partial y^{2}} + \frac{\partial^{2}}{\partial z^{2}} \right) \Psi(x,y,z) = E\,\Psi(x,y,z)
+\frac{\hbar^{2}}{2m} \left( \frac{\partial^{2}}{\partial x^{2}} + \frac{\partial^{2}}{\partial y^{2}} + \frac{\partial^{2}}{\partial z^{2}} \right) \Psi(x,y,z) = E\,\Psi(x,y,z)
 $$
 
-- Energia (dyskretne poziomy):
+- Energia:
 
 $$
 E = \frac{\hbar^{2}\pi^{2}}{2 m} \left( \frac{n_{x}^{2}}{L_{x}^{2}} + \frac{n_{y}^{2}}{L_{y}^{2}} + \frac{n_{z}^{2}}{L_{z}^{2}} \right)
@@ -33,7 +33,7 @@ $$
 
 ---
 
-## Porównanie właściwości heterostruktur, drutów i kropek kwantowych
+## Właściwości heterostruktur, drutów i kropek kwantowych
 
 - Heterostruktury (2D, warstwy): ograniczenie w jednym wymiarze; gęstość stanów przypomina 2D; często stosowane do tworzenia studni potencjału i tunelowania między warstwami.
 - Druty kwantowe (1D): ograniczenie w dwóch wymiarach; przewodzenie wzdłuż jednej osi; gęstość stanów charakterystyczna dla 1D (pikowate cechy); wzrasta rola lokalizacji i rozpraszania.
