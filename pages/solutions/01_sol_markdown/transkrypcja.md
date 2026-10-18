@@ -5,13 +5,19 @@
 - ruch elektronów jest ograniczony w trzech wymiarach
 - najpowszechniejszy model — „quantum box” (kropka kwantowa w kształcie sześcianu); potencjał na zewnątrz jest nieskończony
 - równanie Schrödingera:
-  -ħ²/(2m) * (∂²/∂x² + ∂²/∂y² + ∂²/∂z²) Ψ(x,y,z) = E Ψ(x,y,z)
+
+$$
+- \frac{\hbar^{2}}{2m} \left( \frac{\partial^{2}}{\partial x^{2}} + \frac{\partial^{2}}{\partial y^{2}} + \frac{\partial^{2}}{\partial z^{2}} \right) \Psi(x,y,z) = E\,\Psi(x,y,z)
+$$
 
 - energia:
-  E = (ħ² π² / (2 m)) * (n_x² / L_x² + n_y² / L_y² + n_z² / L_z²)
+
+$$
+E = \frac{\hbar^{2} \pi^{2}}{2 m} \left( \frac{n_x^{2}}{L_x^{2}} + \frac{n_y^{2}}{L_y^{2}} + \frac{n_z^{2}}{L_z^{2}} \right)
+$$
 
 - poziomy energetyczne są zdegenerowane
-- sferyczna kropka kwantowa → rozdzielenie funkcji falowej Ψ na część radialną i kątową (podobieństwo do zagadnienia atomu wodoru w mechanice kwantowej) → rozwiązania: funkcje Bessela typu J_{l+1/2}
+- sferyczna kropka kwantowa → rozdzielenie funkcji falowej $\Psi$ na część radialną i kątową (podobieństwo do zagadnienia atomu wodoru w mechanice kwantowej) → rozwiązania: funkcje Bessela[...]
 
 
 # 12. Porównaj właściwości heterostruktur, drutów i kropek kwantowych
@@ -20,6 +26,6 @@
 
 - Druty kwantowe (1D): ograniczenie w dwóch wymiarach; przewodzenie wzdłuż jednej osi; gęstość stanów charakterystyczna dla 1D (pikowate cechy), zwiększona rola lokalizacji i rozpraszania.
 
-- Kropki kwantowe (0D): ograniczenie we wszystkich trzech wymiarach; dyskretne poziomy energetyczne (podobne do atomu), duża degeneracja zależna od symetrii; używane jako "sztuczne atomy" w optoelektronice.
+- Kropki kwantowe (0D): ograniczenie we wszystkich trzech wymiarach; dyskretne poziomy energetyczne (podobne do atomu), duża degeneracja zależna od symetrii; używane jako "sztuczne atomy" w optoele[...]
 
 
