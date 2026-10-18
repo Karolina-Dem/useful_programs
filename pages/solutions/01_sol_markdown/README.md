@@ -54,7 +54,6 @@ $$
 
 ![Wykres zależności y od x](files/wykres.png)
 
-$a^2+b^2=c^2$
 
 1. Pole koła:
    `P = πr²`
