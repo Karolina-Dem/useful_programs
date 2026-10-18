@@ -4,10 +4,10 @@ Obrazek `zrzut.png`:
 
 ![zrzut notatek](zrzut.png)
 
-## Prompt użyty do wygenerowania tekstu przez AI
+## 
 
 ```
-Tutaj wklej treść promptu użytego do wygenerowania tekstu przez AI.
+
 ```
 
 ## Finalna wersja notatki
