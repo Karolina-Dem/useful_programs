@@ -100,6 +100,7 @@ def pole_kola(r):
     return math.pi * r**2
 
 print(pole_kola(3))
+```
 
 4. Wzór kwadratowy:
    `x = (-b ± √(b² - 4ac)) / 2a`
