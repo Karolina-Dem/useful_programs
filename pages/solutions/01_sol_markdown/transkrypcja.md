@@ -27,5 +27,3 @@ $$
 - Druty kwantowe (1D): ograniczenie w dwóch wymiarach; przewodzenie wzdłuż jednej osi; gęstość stanów charakterystyczna dla 1D (pikowate cechy), zwiększona rola lokalizacji i rozpraszania.
 
 - Kropki kwantowe (0D): ograniczenie we wszystkich trzech wymiarach; dyskretne poziomy energetyczne (podobne do atomu), duża degeneracja zależna od symetrii; używane jako "sztuczne atomy" w optoele[...]
-
-
