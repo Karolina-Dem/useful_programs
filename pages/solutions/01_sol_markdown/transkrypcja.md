@@ -1,5 +1,5 @@
 ---
-## 11. Co to są kropki kwantowe i jakie mają właściwości?
+## Co to są kropki kwantowe i jakie mają właściwości?
 
 - 3D struktura
 - ruch elektronów jest ograniczony w trzech wymiarach
@@ -7,7 +7,7 @@
 - równanie Schrödingera:
 
 $$
-- \frac{\hbar^{2}}{2m} \left( \frac{\partial^{2}}{\partial x^{2}} + \frac{\partial^{2}}{\partial y^{2}} + \frac{\partial^{2}}{\partial z^{2}} \right) \Psi(x,y,z) = E\,\Psi(x,y,z)
+\frac{\hbar^{2}}{2m} \left( \frac{\partial^{2}}{\partial x^{2}} + \frac{\partial^{2}}{\partial y^{2}} + \frac{\partial^{2}}{\partial z^{2}} \right) \Psi(x,y,z) = E\,\Psi(x,y,z)
 $$
 
 - energia:
@@ -20,7 +20,7 @@ $$
 - sferyczna kropka kwantowa → rozdzielenie funkcji falowej $\Psi$ na część radialną i kątową (podobieństwo do zagadnienia atomu wodoru w mechanice kwantowej) → rozwiązania: funkcje Bessela[...]
 
 
-# 12. Porównaj właściwości heterostruktur, drutów i kropek kwantowych
+# Właściwości heterostruktur, drutów i kropek kwantowych
 
 - Heterostruktury (2D, warstwy): ograniczenie w jednym wymiarze; gęstość stanów przypomina 2D; często stosowane do tworzenia studni potencjału i tunelowania między warstwami.
 
