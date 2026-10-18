@@ -101,6 +101,3 @@ def pole_kola(r):
 
 print(pole_kola(3))
 ```
-
-4. Wzór kwadratowy:
-   `x = (-b ± √(b² - 4ac)) / 2a`
