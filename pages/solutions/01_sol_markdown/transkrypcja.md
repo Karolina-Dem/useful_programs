@@ -4,7 +4,7 @@ Obrazek `zrzut.png`:
 
 ![zrzut notatek](zrzut.png)
 
-## 
+## Prompt użyty do wygenerowania tekstu przez AI
 
 ```
 
