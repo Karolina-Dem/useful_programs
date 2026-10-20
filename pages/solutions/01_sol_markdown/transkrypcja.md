@@ -7,7 +7,7 @@ Obrazek `zrzut.png`:
 ## Prompt użyty do wygenerowania tekstu przez AI
 
 ```
-
+?
 ```
 
 ## Finalna wersja notatki
