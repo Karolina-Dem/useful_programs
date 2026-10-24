@@ -7,10 +7,10 @@ Obrazek `zrzut.png`:
 ## Prompt użyty do wygenerowania tekstu przez AI
 
 ```
-?
+Przepisz informacje z zrzutu ekranu zrzut.png do formatu Markdown i zapisz je jako notatkę.
 ```
 
-## Finalna wersja notatki
+## Wersja notatki
 
 1. Co to są kropki kwantowe i jakie mają właściwości?
 
