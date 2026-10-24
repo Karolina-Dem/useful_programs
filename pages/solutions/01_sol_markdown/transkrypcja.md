@@ -10,7 +10,7 @@ Obrazek `zrzut.png`:
 Przepisz informacje z zrzutu ekranu zrzut.png do formatu Markdown i zapisz je jako notatkę.
 ```
 
-## Wersja notatki
+## Finalna wersja notatki
 
 1. Co to są kropki kwantowe i jakie mają właściwości?
 
