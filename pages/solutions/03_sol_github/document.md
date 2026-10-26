@@ -1,15 +1,4 @@
-# Can a metric be reconstructed from a connection?
 
-For a given connection $\Gamma^\lambda_{\mu\nu}$, can we derive the metric
-$g_{\mu\nu}$ standing behind it?
-
-## Short answer
-
-Sometimes, but not for an arbitrary connection. If $\Gamma$ is the
-Levi-Civita connection of a metric, then the metric must satisfy
-
-$$
-\nabla_\lambda g_{\mu\nu}=0,
 $$
 
 or, in coordinates,
