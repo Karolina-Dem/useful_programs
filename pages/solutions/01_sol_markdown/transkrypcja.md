@@ -4,10 +4,10 @@ Obrazek `zrzut.png`:
 
 ![zrzut notatek](zrzut.png)
 
-## 
+## Prompt użyty do wygenerowania tekstu przez AI
 
 ```
-
+Przepisz informacje z zrzutu ekranu zrzut.png do formatu Markdown i zapisz je jako notatkę.
 ```
 
 ## Finalna wersja notatki
@@ -33,7 +33,7 @@ $$
 
 ---
 
-## Właściwości heterostruktur, drutów i kropek kwantowych
+### Właściwości heterostruktur, drutów i kropek kwantowych
 
 - Heterostruktury (2D, warstwy): ograniczenie w jednym wymiarze; gęstość stanów przypomina 2D; często stosowane do tworzenia studni potencjału i tunelowania między warstwami.
 - Druty kwantowe (1D): ograniczenie w dwóch wymiarach; przewodzenie wzdłuż jednej osi; gęstość stanów charakterystyczna dla 1D (pikowate cechy); wzrasta rola lokalizacji i rozpraszania.
