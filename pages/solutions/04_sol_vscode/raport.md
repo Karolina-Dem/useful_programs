@@ -18,7 +18,7 @@
 6. [Ograniczenia modelu](#6-ograniczenia-modelu)
 7. [Kod i odtwarzanie wykresów](#7-kod-i-odtwarzanie-wykresów)
 8. [Wnioski](#8-wnioski)
-9. [Źródła](#9-źródła)
+
 
 ---
 
@@ -610,7 +610,3 @@ print(f"Wykresy zapisano w: {OUT.resolve()}")
 4. W przyjętym modelu kuli opór obniża maksymalną wysokość do około $46{,}111\,\mathrm{m}$ oraz skraca lot do około $6{,}139\,\mathrm{s}$. Zmienia też obie składowe prędkości.
 5. W modelu idealnym energia mechaniczna jest zachowana. W modelu z oporem jej ubytek jest zgodny z pracą siły oporu; niewielka różnica w bilansie wynika z numerycznego całkowania.
 
-## 9. Źródła
-
-- [OpenStax, University Physics Volume 1 — Projectile Motion](https://openstax.org/books/university-physics-volume-1/pages/4-3-projectile-motion) — rozkład ruchu na składowe i równania rzutu bez oporu.
-- [NASA Glenn Research Center — The Drag Equation](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/drag-equation/) — równanie siły oporu i znaczenie parametrów aerodynamicznych.
