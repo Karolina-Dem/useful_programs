@@ -140,8 +140,7 @@ $$
 Oprócz rozwiązania $T=0$ otrzymujemy czas powrotu:
 
 $$
-T=\frac{2v_0\sin\alpha}{g},
-\qquad \text{dla } 0^\circ<\alpha<180^\circ.
+ T=\frac{2v_0\sin\alpha}{g}, \qquad 0^\circ<\alpha<180^\circ. 
 $$
 
 W najwyższym punkcie $v_y=0$. Stąd:
