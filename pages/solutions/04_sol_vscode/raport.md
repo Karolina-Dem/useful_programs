@@ -42,7 +42,7 @@ Rzut ukośny jest ruchem w dwóch wymiarach, który można opisać jako niezale�
 | :--- | :--- | :---: |
 | $x,y$ | współrzędne położenia | $\mathrm{m}$ |
 | $v_x,v_y$ | składowe prędkości | $\mathrm{m/s}$ |
-| $v=|\vec v|$ | szybkość | $\mathrm{m/s}$ |
+| $v=\lVert\vec v\rVert$ | szybkość | $\mathrm{m/s}$ |
 | $a_x,a_y$ | składowe przyspieszenia | $\mathrm{m/s^2}$ |
 | $v_0$ | szybkość początkowa | $\mathrm{m/s}$ |
 | $\alpha$ | kąt wyrzutu | stopnie lub radiany |
@@ -609,4 +609,3 @@ print(f"Wykresy zapisano w: {OUT.resolve()}")
 3. Opór aerodynamiczny zależy od masy, pola przekroju, kształtu i warunków powietrza. Ponieważ te dane nie zostały podane, wyniki z oporem są warunkowe i bazują na jawnie wymienionych założeniach dla kuli.
 4. W przyjętym modelu kuli opór obniża maksymalną wysokość do około $46{,}111\,\mathrm{m}$ oraz skraca lot do około $6{,}139\,\mathrm{s}$. Zmienia też obie składowe prędkości.
 5. W modelu idealnym energia mechaniczna jest zachowana. W modelu z oporem jej ubytek jest zgodny z pracą siły oporu; niewielka różnica w bilansie wynika z numerycznego całkowania.
-
